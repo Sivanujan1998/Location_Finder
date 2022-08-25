@@ -1,5 +1,5 @@
 # DummyLocationFinder 
-Here I Used Leaflet Library, This an open-source JavaScript library for mobile-friendly interactive maps.
+<b>Here I Used Leaflet Library, This an open-source JavaScript library for mobile-friendly interactive maps.</b>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
 
